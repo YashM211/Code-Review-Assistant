@@ -1,4 +1,4 @@
-# 🤖 AI Code Review Assistant
+# 🤖 Code Review Assistant
 
 > **Production-grade AI-powered code review platform with GitHub integration, RAG architecture, and real-time PR feedback**
 
@@ -28,7 +28,6 @@
 
 **AI Code Review Assistant** is a full-stack enterprise application that automates code review processes using GPT-4, reducing manual review time by up to 70%. The platform integrates seamlessly with GitHub repositories, providing intelligent suggestions, security vulnerability detection, and automated PR feedback.
 
-### 🎥 [Live Demo](https://your-demo-link.com) | 📖 [Documentation](docs/)
 
 ### Problem Statement
 Manual code reviews are time-consuming, inconsistent, and often miss critical issues. Development teams need an intelligent, scalable solution that maintains code quality while accelerating the development cycle.
@@ -312,10 +311,6 @@ For deployment security checklist, see [DEPLOYMENT.md](docs/DEPLOYMENT.md#securi
 | **Concurrent reviews** | 10+ files |
 | **API rate limit** | 30 req/min |
 
-## 🤝 Contributing
-
-We welcome contributions! Please read our [Contributing Guidelines](docs/CONTRIBUTING.md) before submitting pull requests.
-
 ### Quick Start for Contributors
 1. **Fork** the repository
 2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -370,13 +365,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **GitHub** for OAuth and REST API
 - **Chakra UI** for beautiful React components
 
-## 📞 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
-
-**Project Link:** [https://github.com/yourusername/ai-code-review-assistant](https://github.com/yourusername/ai-code-review-assistant)
-
----
 
 ## 📖 Additional Documentation
 
@@ -386,7 +375,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **[Deployment](docs/DEPLOYMENT.md)** - Local development and production deployment
 
 ---
-
-### ⭐ If you find this project useful, please consider giving it a star on GitHub!
-
-**Made with ❤️ by [Your Name]**
